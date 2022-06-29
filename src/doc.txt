@@ -1,0 +1,3 @@
+Express Js is a NodeJs Framework. ITs the most popular framework as of now (The most starred on NPM)
+Express Js is web application framework that provides you with simple API to build websites, web app and back-end. 
+IT takes less time and less lines of code than NODEJs while creating Rest API
